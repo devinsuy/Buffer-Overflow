@@ -1,0 +1,34 @@
+------------------------
+Reference Links Utilized
+------------------------
+	Resources:
+		https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf
+		http://www.cis.syr.edu/~wedu/seed/Book/book_sample_buffer.pdf
+		https://payatu.com/blog/Siddharth-Bezalwar/understanding-stack-based-buffer-overflow#:~:text=EBP%20points%20to%20higher%20memory,next%20instruction%20to%20be%20executed.&text=When%20a%20function%20is%20executed,is%20pushed%20onto%20the%20stack.
+		http://www.cis.syr.edu/~wedu/Teaching/CompSec/LectureNotes_New/Buffer_Overflow.pdf
+		https://0xrick.github.io/binary-exploitation/bof5/
+		https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html
+		https://owasp.org/www-community/attacks/Buffer_overflow_attack
+		https://www.exploit-db.com/exploits/47008
+		https://owasp.org/www-community/attacks/Buffer_Overflow_via_Environment_Variables#:~:text=This%20attack%20pattern%20involves%20causing,often%20placed%20in%20environment%20variables.
+
+
+	Documentation:
+		https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html
+		https://linux.die.net/man/3/system
+		https://man7.org/linux/man-pages/man2/execve.2.html
+		https://linuxhint.com/exec_linux_system_call_c/#:~:text=In%20execl()%20system%20function,command%20and%20prints%20the%20output.
+		https://visualgdb.com/gdbreference/commands/
+		https://web.eecs.umich.edu/~sugih/pointers/summary.html
+		http://kirste.userpage.fu-berlin.de/chemnet/use/info/gdb/gdb_7.html
+
+	Other:
+		https://defuse.ca/online-x86-assembler.htm
+		https://godbolt.org/
+		https://www.sitepoint.com/community/t/differece-between-machine-type-i686-and-i386/5666
+		https://www.codetable.net/
+		https://www.calculator.net/hex-calculator.html
+		https://www.onlinegdb.com/
+		http://archive.download.redhat.com/pub/redhat/linux/6.2/en/iso/i386/
+		
+		
